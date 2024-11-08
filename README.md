@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saurusftw
-- 👀 I’m interested in finding a developer job
+- 👀 I’m interested in finding a pentest job
 - 🌱 I’m currently learning about general designpatterns
 - 💞️ I’m looking to collaborate on blockchains
 - 📫 How to reach me ...
